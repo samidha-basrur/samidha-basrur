@@ -4,7 +4,7 @@
 
 Bringing 2 years of enterprise client management experience to data-driven business consulting. Currently completing Master of Professional Studies in Analytics at Northeastern University (3.9 GPA) while maintaining leadership roles in peer mentoring and community workforce development.
 
-Previously managed digital transformation projects for clients, including Mahindra Finance(major Indian financial institution) and Legrand India, leading cross-functional teams and delivering strategic solutions for complex stakeholder environments.
+Previously managed digital transformation projects for clients, including Mahindra Finance (major Indian financial institution) and Legrand India, leading cross-functional teams and delivering strategic solutions for complex stakeholder environments.
 
 ## Professional Focus
 
