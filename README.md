@@ -33,6 +33,10 @@ Database architecture addressing coordination inefficiency between Ontario's 58,
 
 **Applied Skills:** Database normalization (3NF), complex multi-table JOINs, business intelligence query design, KPI development, data-driven strategic recommendations.
 
+### Predictive Analytics: Bank Customer Churn
+[View Project →](https://github.com/samidha-basrur/portfolio-bank-churn-analysis)
+Analyzed churn patterns across 10,000 retail bank customers using logistic regression, LASSO, and random forest. Identified age, geography, and engagement as key churn drivers, and translated statistical findings into actionable retention strategy recommendations.
+
 ### Statistical Analysis: Global Life Expectancy Patterns
 [View Project →](https://github.com/samidha-basrur/life-expectancy-happiness-analysis)
 
